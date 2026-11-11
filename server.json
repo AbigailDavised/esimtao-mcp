@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.esimtao/mcp",
   "title": "EsimTao — Global Travel eSIM Data Calculator, Advisor & Device Checker",
-  "description": "Calculate travel data needs, check phone eSIM support & compare fair GB prices across 180+ destinations.",
+  "description": "Calculate travel data needs, check phone eSIM hardware & compare fair GB prices globally.",
   "version": "1.0.0",
   "websiteUrl": "https://esimtao.com",
   "repository": {

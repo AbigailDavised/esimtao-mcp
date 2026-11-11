@@ -1,7 +1,7 @@
 {
   "name": "esimtao-mcp",
   "version": "1.0.0",
-  "description": "Calculate travel data needs, check phone eSIM support & compare fair GB prices across 180+ destinations.",
+  "description": "Calculate travel data needs, check phone eSIM hardware & compare fair GB prices globally.",
   "homepage": "https://esimtao.com",
   "mcpName": "com.esimtao/mcp",
   "type": "module",
