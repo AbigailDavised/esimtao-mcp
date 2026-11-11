@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "esimtao": {
+      "type": "http",
+      "url": "https://esimtao.com/api/mcp"
+    }
+  }
+}

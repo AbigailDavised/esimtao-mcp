@@ -1,0 +1,21 @@
+{
+  "name": "esimtao",
+  "version": "1.0.0",
+  "description": "Official stateless MCP server for EsimTao.com — travel eSIM data calculator, phone hardware compatibility checker and fair pricing advisor.",
+  "homepage": "https://esimtao.com",
+  "repository": "https://github.com/AbigailDavised/esimtao-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@esimtao.com",
+    "url": "https://esimtao.com"
+  },
+  "keywords": [
+    "esim",
+    "travel-data",
+    "data-calculator",
+    "roaming",
+    "smartphone-compatibility",
+    "mcp"
+  ]
+}
