@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.esimtao/mcp",
+  "title": "EsimTao — Global Travel eSIM Data Calculator, Advisor & Device Checker",
+  "description": "Calculate travel data needs, check phone eSIM support & compare fair GB prices across 180+ destinations.",
+  "version": "1.0.0",
+  "websiteUrl": "https://esimtao.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/esimtao-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://esimtao.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://esimtao.com/api/mcp"
+    }
+  ]
+}
