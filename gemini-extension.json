@@ -1,0 +1,11 @@
+{
+  "name": "esimtao",
+  "version": "1.0.0",
+  "description": "Travel data calculator, phone eSIM hardware compatibility checker & fair pricing guide.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "esimtao": {
+      "httpUrl": "https://esimtao.com/api/mcp"
+    }
+  }
+}
