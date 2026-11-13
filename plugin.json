@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "esimtao",
   "version": "1.0.0",
   "description": "Official stateless MCP server for EsimTao.com — travel eSIM data calculator, phone hardware compatibility checker and fair pricing advisor.",
@@ -17,5 +18,14 @@
     "roaming",
     "smartphone-compatibility",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "esimtao": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
