@@ -1,6 +1,7 @@
 # EsimTao — Global Travel eSIM Data Calculator, Hardware Matrix & APN Peering Engine
 
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-blue.svg)](https://modelcontextprotocol.io)
+[![MCPRush Listing](https://mcprush.com/badge/esimtao-global-travel-esim-data-calculator-ad-mcp/card.svg)](https://mcprush.com/to/esimtao-global-travel-esim-data-calculator-ad-mcp?ref=badge)
 [![Official Website](https://img.shields.io/badge/Official-Website-emerald.svg)](https://esimtao.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
